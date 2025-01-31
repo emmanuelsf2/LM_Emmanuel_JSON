@@ -1,0 +1,41 @@
+[
+    {
+        "title": "The Story Of The Blue Planet",
+        "author": "Andri Snaer Magnason",
+        "genre": "Acción",
+        "year": 2000,
+        "cover": "the story of the blue planet.jpg"
+    },
+
+    {
+        "title": "La manzana de Marco Polo",
+        "author": "Manuel López Gallego",
+        "genre": "Aventura",
+        "year": 2011,
+        "cover": "la manzana de marco polo.jpg"
+    },
+
+    {
+        "title": "Cruzada en jeans",
+        "author": "Thea Beckman",
+        "genre": "Acción",
+        "year": 1973,
+        "cover": "cruzadaenjeans.jpg"
+    },
+
+    {
+        "title": "La asistencia",
+        "author": "Freida McFadden",
+        "genre": "Novela",
+        "year": 2014,
+        "cover": "la-asistenta.jpg"
+    },
+
+    {
+        "title": "La península de las casas vacías",
+        "author": "David Uclés",
+        "genre": "Novela",
+        "year": 2024,
+        "cover": "La península de las casas vacías.jpg"
+    }
+]

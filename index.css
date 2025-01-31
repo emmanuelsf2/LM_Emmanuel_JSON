@@ -1,0 +1,74 @@
+.books
+{
+    width: 210px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+#gallery
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.card
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 15px;
+    width: 300px;
+    background-color: rgb(235, 235, 235);
+}
+
+.cabecera
+{
+    height: 10vh;
+    padding: 1em;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-shadow: 2px, 0px, 2px, #777;
+}
+
+.busqueda
+{
+    display: flex;
+    border-radius: 15px;
+}
+
+.cuadro
+{
+    width: 200px;
+    height: 40px;
+    padding: 5px;
+    transition: width 0.3s ease-in-out;
+    border-radius: 15px;
+}
+
+.cuadro:focus
+{
+    width: 300px;
+}
+
+
+.lupa
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.lupo
+{
+    height: 30px;
+    width: 30px;
+}
